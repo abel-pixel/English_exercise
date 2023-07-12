@@ -1,2 +1,3 @@
 
 git+git://github.com/abel-pixel/English_exercise.git@version#egg=English_exercise
+!pip install streamlit
