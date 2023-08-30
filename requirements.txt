@@ -1,3 +1,1 @@
-
-git+git://github.com/abel-pixel/English_exercise.git@version#egg=English_exercise
-!pipreqsnb . –force
+pip freeze > requirements.txt
