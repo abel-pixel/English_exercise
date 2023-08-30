@@ -364,5 +364,5 @@ if total_sum == len(tasks):
     st.balloons()
     
 
-pip freeze > requirement.txt
+!pip freeze > requirement.txt
 
