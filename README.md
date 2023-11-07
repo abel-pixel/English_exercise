@@ -4,5 +4,7 @@
 | :---------------------- | :---------------------- | :---------------------- |
 | [Генератор упражнений по английскому языку](English_exercise) | Создание приложения, которое автоматически преобразует предоставленный текст в увлекательные задания по английскому языку, используя технологии обработки естественного языка [https://englishexercise-inryvqmzueb2r7qvawmrhi.streamlit.app/] | *spacy*, *gensim*, *pyinflect*, *streamlit*, *pytorch-transformers* |
 
+### Общий вывод
+Создал приложение для генерации упражнений по английскому языку на  Streamlit  [https://englishexercise-inryvqmzueb2r7qvawmrhi.streamlit.app/]
 
 
