@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[ ]:
-pip freeze > requirements.txt
+
 
 import streamlit as st
 import pandas as pd
